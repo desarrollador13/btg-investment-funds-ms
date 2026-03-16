@@ -30,3 +30,5 @@ POST /btg-investment-funds/api/v1/subscriptions/cancel     Cancelar Suscripcion
   "clientId": "69b5d3e155b8cb704448b38d",
   "fundId": "0e439f33-1b47-447b-bd40-dd400520329f"
 }
+
+GET /btg-investment-funds/api/v1/transactions/69b773f022590e4f075ed1c5   Consultar Transacciones por idCliente
