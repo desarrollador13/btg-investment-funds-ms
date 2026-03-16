@@ -124,7 +124,3 @@ A continuación, se muestra un ejemplo de los datos necesarios para crear un cli
 ## Ejecución
 1. Clonar el repositorio.
 2. Configurar las credenciales de MongoDB en `application.properties`.
-3. Ejecutar el comando:
-   ```bash
-   ./mvnw spring-boot:run
-   ```
